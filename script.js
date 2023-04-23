@@ -96,7 +96,7 @@ new Vue({
           url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
           favorited: false
          },
-    {
+    
       ],
       currentTrack: null,
       currentTrackIndex: 0,
