@@ -88,6 +88,157 @@ new Vue({
           url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
           favorited: false
         }
+        {
+          name: "10",
+          artist: "enjoy",
+          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/9.jpg",
+          source: "https://github.com/sumanyucoder/music-player-songs/blob/main/10.mp3?raw=true",
+          url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
+          favorited: false
+        }
+    {
+          name: "11",
+          artist: "enjoy",
+          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/9.jpg",
+          source: "https://github.com/sumanyucoder/music-player-songs/blob/main/10.mp3?raw=true",
+          url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
+          favorited: false
+        }
+    {
+          name: "12",
+          artist: "enjoy",
+          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/9.jpg",
+          source: "https://github.com/sumanyucoder/music-player-songs/blob/main/10.mp3?raw=true",
+          url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
+          favorited: false
+        }
+    {
+          name: "13",
+          artist: "enjoy",
+          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/9.jpg",
+          source: "https://github.com/sumanyucoder/music-player-songs/blob/main/10.mp3?raw=true",
+          url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
+          favorited: false
+        }{
+          name: "14",
+          artist: "enjoy",
+          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/9.jpg",
+          source: "https://github.com/sumanyucoder/music-player-songs/blob/main/10.mp3?raw=true",
+          url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
+          favorited: false
+        }{
+          name: "15",
+          artist: "enjoy",
+          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/9.jpg",
+          source: "https://github.com/sumanyucoder/music-player-songs/blob/main/10.mp3?raw=true",
+          url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
+          favorited: false
+        }{
+          name: "16",
+          artist: "enjoy",
+          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/9.jpg",
+          source: "https://github.com/sumanyucoder/music-player-songs/blob/main/10.mp3?raw=true",
+          url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
+          favorited: false
+        }{
+          name: "17",
+          artist: "enjoy",
+          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/9.jpg",
+          source: "https://github.com/sumanyucoder/music-player-songs/blob/main/10.mp3?raw=true",
+          url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
+          favorited: false
+        }{
+          name: "18",
+          artist: "enjoy",
+          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/9.jpg",
+          source: "https://github.com/sumanyucoder/music-player-songs/blob/main/10.mp3?raw=true",
+          url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
+          favorited: false
+        }{
+          name: "19",
+          artist: "enjoy",
+          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/9.jpg",
+          source: "https://github.com/sumanyucoder/music-player-songs/blob/main/10.mp3?raw=true",
+          url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
+          favorited: false
+        }{
+          name: "20",
+          artist: "enjoy",
+          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/9.jpg",
+          source: "https://github.com/sumanyucoder/music-player-songs/blob/main/10.mp3?raw=true",
+          url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
+          favorited: false
+        }{
+          name: "21",
+          artist: "enjoy",
+          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/9.jpg",
+          source: "https://github.com/sumanyucoder/music-player-songs/blob/main/10.mp3?raw=true",
+          url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
+          favorited: false
+        }{
+          name: "22",
+          artist: "enjoy",
+          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/9.jpg",
+          source: "https://github.com/sumanyucoder/music-player-songs/blob/main/10.mp3?raw=true",
+          url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
+          favorited: false
+        }{
+          name: "23",
+          artist: "enjoy",
+          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/9.jpg",
+          source: "https://github.com/sumanyucoder/music-player-songs/blob/main/10.mp3?raw=true",
+          url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
+          favorited: false
+        }{
+          name: "24",
+          artist: "enjoy",
+          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/9.jpg",
+          source: "https://github.com/sumanyucoder/music-player-songs/blob/main/10.mp3?raw=true",
+          url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
+          favorited: false
+        }{
+          name: "25",
+          artist: "enjoy",
+          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/9.jpg",
+          source: "https://github.com/sumanyucoder/music-player-songs/blob/main/10.mp3?raw=true",
+          url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
+          favorited: false
+        }{
+          name: "26",
+          artist: "enjoy",
+          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/9.jpg",
+          source: "https://github.com/sumanyucoder/music-player-songs/blob/main/10.mp3?raw=true",
+          url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
+          favorited: false
+        }{
+          name: "27",
+          artist: "enjoy",
+          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/9.jpg",
+          source: "https://github.com/sumanyucoder/music-player-songs/blob/main/10.mp3?raw=true",
+          url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
+          favorited: false
+        }{
+          name: "28",
+          artist: "enjoy",
+          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/9.jpg",
+          source: "https://github.com/sumanyucoder/music-player-songs/blob/main/10.mp3?raw=true",
+          url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
+          favorited: false
+        }{
+          name: "29",
+          artist: "enjoy",
+          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/9.jpg",
+          source: "https://github.com/sumanyucoder/music-player-songs/blob/main/10.mp3?raw=true",
+          url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
+          favorited: false
+        }{
+          name: "30",
+          artist: "enjoy",
+          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/9.jpg",
+          source: "https://github.com/sumanyucoder/music-player-songs/blob/main/10.mp3?raw=true",
+          url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
+          favorited: false
+        }
       ],
       currentTrack: null,
       currentTrackIndex: 0,
