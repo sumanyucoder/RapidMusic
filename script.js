@@ -91,8 +91,8 @@ new Vue({
         {
           name: "10",
           artist: "enjoy",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/9.jpg",
-          source: "https://github.com/sumanyucoder/music-player-songs/blob/main/10.mp3?raw=true",
+          cover: "https://images.unsplash.com/photo-1547241850-eb8a8754f95c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGFlc3RoZXRpY3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60",
+          source: "https://github.com/sumanyucoder/music-player-songs/blob/main/30.mp3?raw=true",
           url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
           favorited: false
         }
